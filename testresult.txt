@@ -1,0 +1,203 @@
+Board of: 1000000*1000000 created
+
+inserting 1 at (3,2)
+inserted 1 at (3,2)
+
+inserting 2 at (4,3)
+inserted 2 at (4,3)
+
+inserting 3 at (4,6)
+inserted 3 at (4,6)
+
+inserting 4 at (5,7)
+inserted 4 at (5,7)
+
+inserting 5 at (6,3)
+inserted 5 at (6,3)
+
+inserting 6 at (8,2)
+inserted 6 at (8,2)
+
+inserting 7 at (9,3)
+inserted 7 at (9,3)
+
+inserting 8 at (9,8)
+inserted 8 at (9,8)
+
+inserting 3 at (7,6)
+ID has been used
+
+inserting 10 at (9,8)
+Location invalid
+
+Moving player: 4 to (9,3)
+A player is in (9,3)
+Initiating remove
+
+Removing Player 7
+Removed Player 7 at (9,3)
+
+Removing Player 4
+Removed Player 4 at (5,7)
+
+inserting 4 at (9,3)
+inserted 4 at (9,3)
+
+7 Players on board: 
+1 at (3,2)
+2 at (4,3)
+3 at (4,6)
+4 at (9,3)
+5 at (6,3)
+6 at (8,2)
+8 at (9,8)
+
+Moving player: 4 to (9,8)
+A player is in (9,8)
+Initiating remove
+
+Removing Player 8
+Removed Player 8 at (9,8)
+
+Removing Player 4
+Removed Player 4 at (9,3)
+
+inserting 4 at (9,8)
+inserted 4 at (9,8)
+
+6 Players on board: 
+1 at (3,2)
+2 at (4,3)
+3 at (4,6)
+4 at (9,8)
+5 at (6,3)
+6 at (8,2)
+
+Moving player: 4 to (6,3)
+Movement invalid
+
+6 Players on board: 
+1 at (3,2)
+2 at (4,3)
+3 at (4,6)
+4 at (9,8)
+5 at (6,3)
+6 at (8,2)
+
+Moving player: 2 to (3,3)
+
+Removing Player 2
+Removed Player 2 at (4,3)
+
+inserting 2 at (3,3)
+inserted 2 at (3,3)
+
+6 Players on board: 
+1 at (3,2)
+2 at (3,3)
+3 at (4,6)
+4 at (9,8)
+5 at (6,3)
+6 at (8,2)
+
+Moving player: 4 to (3,2)
+A player is in (3,2)
+Initiating remove
+
+Removing Player 1
+Removed Player 1 at (3,2)
+
+Removing Player 4
+Removed Player 4 at (9,8)
+
+inserting 4 at (3,2)
+inserted 4 at (3,2)
+
+5 Players on board: 
+2 at (3,3)
+3 at (4,6)
+4 at (3,2)
+5 at (6,3)
+6 at (8,2)
+
+Moving player: 4 to (8,2)
+A player is in (8,2)
+Initiating remove
+
+Removing Player 6
+Removed Player 6 at (8,2)
+
+Removing Player 4
+Removed Player 4 at (3,2)
+
+inserting 4 at (8,2)
+inserted 4 at (8,2)
+
+4 Players on board: 
+2 at (3,3)
+3 at (4,6)
+4 at (8,2)
+5 at (6,3)
+
+Moving player: 5 to (3,3)
+A player is in (3,3)
+Initiating remove
+
+Removing Player 2
+Removed Player 2 at (3,3)
+
+Removing Player 5
+Removed Player 5 at (6,3)
+
+inserting 5 at (3,3)
+inserted 5 at (3,3)
+
+3 Players on board: 
+3 at (4,6)
+4 at (8,2)
+5 at (3,3)
+
+Moving player: 4 to (4,6)
+A player is in (4,6)
+Initiating remove
+
+Removing Player 3
+Removed Player 3 at (4,6)
+
+Removing Player 4
+Removed Player 4 at (8,2)
+
+inserting 4 at (4,6)
+inserted 4 at (4,6)
+
+2 Players on board: 
+4 at (4,6)
+5 at (3,3)
+
+Moving player: 5 to (4,3)
+
+Removing Player 5
+Removed Player 5 at (3,3)
+
+inserting 5 at (4,3)
+inserted 5 at (4,3)
+
+2 Players on board: 
+4 at (4,6)
+5 at (4,3)
+
+Moving player: 4 to (4,3)
+A player is in (4,3)
+Initiating remove
+
+Removing Player 5
+Removed Player 5 at (4,3)
+
+Removing Player 4
+Removed Player 4 at (4,6)
+
+inserting 4 at (4,3)
+inserted 4 at (4,3)
+
+1 Players on board: 
+4 at (4,3)
